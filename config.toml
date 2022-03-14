@@ -1,6 +1,6 @@
-baseURL       = "http://artemislabs.github.io/"
+baseURL       = "https://artemislab.io/"
 languageCode  = "en-us"
-title         = "ArtemisLab your Devops freelances"
+title         = "ArtemisLab your Devops&SRE Help"
 theme         = "roxo"
 summarylength = 25
 
